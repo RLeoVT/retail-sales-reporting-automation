@@ -1,0 +1,5 @@
+.env
+retail_env/
+db/retail.db
+outputs/report.html
+.DS_Store
